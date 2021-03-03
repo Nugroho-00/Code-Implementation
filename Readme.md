@@ -4,9 +4,9 @@
 
 ## Tools
 
-1.Vs Code
-2.Playground code Online
-3.Flowchart/Algorithm using by Draw.io
+1. Vs Code
+2. Playground code Online
+3. Flowchart/Algorithm using by Draw.io
 
 ---
 
